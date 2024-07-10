@@ -1,0 +1,11 @@
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\bin\Debug\net8.0\E-CommerceAPI.Domain.deps.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\bin\Debug\net8.0\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\bin\Debug\net8.0\E-CommerceAPI.Domain.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.AssemblyInfo.cs
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\refint\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\ref\E-CommerceAPI.Domain.dll

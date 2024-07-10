@@ -1,0 +1,17 @@
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Persistance.deps.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Persistance.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Persistance.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Application.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Application.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Domain.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.csproj.AssemblyReference.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.AssemblyInfoInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.AssemblyInfo.cs
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-Commer.D23E3AF5.Up2Date
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\refint\E-CommerceAPI.Persistance.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\ref\E-CommerceAPI.Persistance.dll

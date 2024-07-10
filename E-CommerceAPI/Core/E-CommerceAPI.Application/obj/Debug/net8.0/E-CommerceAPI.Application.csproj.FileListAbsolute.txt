@@ -1,0 +1,15 @@
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\bin\Debug\net8.0\E-CommerceAPI.Application.deps.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\bin\Debug\net8.0\E-CommerceAPI.Application.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\bin\Debug\net8.0\E-CommerceAPI.Application.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\bin\Debug\net8.0\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\bin\Debug\net8.0\E-CommerceAPI.Domain.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.csproj.AssemblyReference.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.AssemblyInfoInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.AssemblyInfo.cs
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-Commer.D403A493.Up2Date
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\refint\E-CommerceAPI.Application.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.pdb
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\ref\E-CommerceAPI.Application.dll

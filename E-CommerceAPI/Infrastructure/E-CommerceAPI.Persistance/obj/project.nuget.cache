@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOzf47ait7+MItXJyfpA/z6jF8U5ZHvIlCzxCap/eyUUBRaoXkysDFAORYUARw87kDWq5bRqFjYmUB+ZqMqxxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Naila\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
