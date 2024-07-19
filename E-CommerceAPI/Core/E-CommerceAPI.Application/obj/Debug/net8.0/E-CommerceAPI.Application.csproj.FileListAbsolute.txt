@@ -13,3 +13,4 @@ C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\o
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\refint\E-CommerceAPI.Application.dll
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.pdb
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\ref\E-CommerceAPI.Application.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Application\obj\Debug\net8.0\E-CommerceAPI.Application.sourcelink.json

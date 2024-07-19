@@ -15,3 +15,6 @@ C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Per
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\refint\E-CommerceAPI.Persistance.dll
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.pdb
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\ref\E-CommerceAPI.Persistance.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\bin\Debug\net8.0\E-CommerceAPI.Persistance.runtimeconfig.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.sourcelink.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Infrastructure\E-CommerceAPI.Persistance\obj\Debug\net8.0\E-CommerceAPI.Persistance.genruntimeconfig.cache

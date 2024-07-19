@@ -9,3 +9,4 @@ C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\De
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\refint\E-CommerceAPI.Domain.dll
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.pdb
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\ref\E-CommerceAPI.Domain.dll
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Core\E-CommerceAPI.Domain\obj\Debug\net8.0\E-CommerceAPI.Domain.sourcelink.json

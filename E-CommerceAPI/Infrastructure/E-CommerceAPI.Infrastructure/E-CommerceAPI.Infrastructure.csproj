@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Core\E-CommerceAPI.Application\E-CommerceAPI.Application.csproj" />
+    <ProjectReference Include="..\E-CommerceAPI.Persistance\E-CommerceAPI.Persistance.csproj" />
   </ItemGroup>
 
 </Project>
