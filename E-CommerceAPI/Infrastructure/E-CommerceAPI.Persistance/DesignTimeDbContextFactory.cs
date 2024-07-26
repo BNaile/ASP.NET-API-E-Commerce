@@ -14,8 +14,6 @@ namespace E_CommerceAPI.Persistance
     {
         public E_CommerceAPIDbContext CreateDbContext(string[] args)
         {
-           
-
             DbContextOptionsBuilder<E_CommerceAPIDbContext> dbContextOptionsBuilder = new();
             dbContextOptionsBuilder.UseNpgsql (Configuration.ConnectionString);
             return new(dbContextOptionsBuilder.Options);

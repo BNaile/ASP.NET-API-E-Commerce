@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using E_CommerceAPI.Domain.Entities.Common;
 
-namespace E_CommerceAPI.Infrastructure.Repositories
+namespace E_CommerceAPI.Persistance.Repositories
 {
     public class ReadRepository<T> : IReadRepository<T> where T : BaseEntity
     {

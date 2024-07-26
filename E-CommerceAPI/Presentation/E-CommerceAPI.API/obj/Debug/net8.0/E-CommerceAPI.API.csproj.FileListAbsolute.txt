@@ -3,7 +3,6 @@ C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\o
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.AssemblyInfoInputs.cache
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.AssemblyInfo.cs
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.csproj.CoreCompileInputs.cache
-C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\bin\Debug\net8.0\appsettings.json
@@ -111,3 +110,4 @@ C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\b
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.sourcelink.json
+C:\Users\Naila\Desktop\E-Commerce\E-CommerceAPI\Presentation\E-CommerceAPI.API\obj\Debug\net8.0\E-CommerceAPI.API.MvcApplicationPartsAssemblyInfo.cs

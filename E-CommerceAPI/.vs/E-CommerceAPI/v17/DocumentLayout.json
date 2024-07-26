@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{38FF32A8-1C18-4708-B0B8-B834E279708E}|Infrastructure\\E-CommerceAPI.Infrastructure\\E-CommerceAPI.Infrastructure.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\infrastructure\\e-commerceapi.infrastructure\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF32A8-1C18-4708-B0B8-B834E279708E}|Infrastructure\\E-CommerceAPI.Infrastructure\\E-CommerceAPI.Infrastructure.csproj|solutionrelative:infrastructure\\e-commerceapi.infrastructure\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F987A7D4-4135-4654-9C5A-45FAB7C6B54B}|Presentation\\E-CommerceAPI.API\\E-CommerceAPI.API.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\presentation\\e-commerceapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F987A7D4-4135-4654-9C5A-45FAB7C6B54B}|Presentation\\E-CommerceAPI.API\\E-CommerceAPI.API.csproj|solutionrelative:presentation\\e-commerceapi.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38FF32A8-1C18-4708-B0B8-B834E279708E}|Infrastructure\\E-CommerceAPI.Infrastructure\\E-CommerceAPI.Infrastructure.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\infrastructure\\e-commerceapi.infrastructure\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38FF32A8-1C18-4708-B0B8-B834E279708E}|Infrastructure\\E-CommerceAPI.Infrastructure\\E-CommerceAPI.Infrastructure.csproj|solutionrelative:infrastructure\\e-commerceapi.infrastructure\\repositories\\writerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\infrastructure\\e-commerceapi.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|solutionrelative:infrastructure\\e-commerceapi.persistance\\repositories\\readrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\core\\e-commerceapi.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|solutionrelative:core\\e-commerceapi.application\\repositories\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\infrastructure\\e-commerceapi.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|solutionrelative:infrastructure\\e-commerceapi.persistance\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\core\\e-commerceapi.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|solutionrelative:core\\e-commerceapi.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|c:\\users\\naila\\desktop\\e-commerce\\e-commerceapi\\infrastructure\\e-commerceapi.persistance\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|solutionrelative:infrastructure\\e-commerceapi.persistance\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\core\\e-commerceapi.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D679E83-751D-4A86-A1CC-D9A4544CD3E9}|Core\\E-CommerceAPI.Application\\E-CommerceAPI.Application.csproj|solutionrelative:core\\e-commerceapi.application\\repositories\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\infrastructure\\e-commerceapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52403D97-996B-4008-A74B-DC4D35E2776B}|Infrastructure\\E-CommerceAPI.Persistance\\E-CommerceAPI.Persistance.csproj|solutionrelative:infrastructure\\e-commerceapi.persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,67 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\WriteRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\WriteRepository.cs",
-              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\WriteRepository.cs",
-              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\WriteRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAlwCwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T13:13:59.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Presentation\\E-CommerceAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\E-CommerceAPI.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Presentation\\E-CommerceAPI.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Presentation\\E-CommerceAPI.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:38:00.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\ReadRepository.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\ReadRepository.cs",
-              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\ReadRepository.cs",
-              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Infrastructure\\Repositories\\ReadRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBUAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Persistance\\Repositories\\ReadRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwCUAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-18T08:46:27.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IReadRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IReadRepository.cs",
-              "RelativeDocumentMoniker": "Core\\E-CommerceAPI.Application\\Repositories\\IReadRepository.cs",
-              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IReadRepository.cs",
-              "RelativeToolTip": "Core\\E-CommerceAPI.Application\\Repositories\\IReadRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:18:14.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "Core\\E-CommerceAPI.Application\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "Core\\E-CommerceAPI.Application\\Repositories\\IRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:12:07.892Z",
+              "WhenOpened": "2024-07-26T13:33:40.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IWriteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IWriteRepository.cs",
-              "RelativeDocumentMoniker": "Core\\E-CommerceAPI.Application\\Repositories\\IWriteRepository.cs",
-              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Core\\E-CommerceAPI.Application\\Repositories\\IWriteRepository.cs",
-              "RelativeToolTip": "Core\\E-CommerceAPI.Application\\Repositories\\IWriteRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\Configuration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Persistance\\Configuration.cs",
+              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\Configuration.cs",
+              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Persistance\\Configuration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T11:19:32.191Z",
+              "WhenOpened": "2024-07-25T07:50:37.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Persistance\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T07:47:10.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\E-CommerceAPI.Persistance\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Naila\\Desktop\\E-Commerce\\E-CommerceAPI\\Infrastructure\\E-CommerceAPI.Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastructure\\E-CommerceAPI.Persistance\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T13:25:30.46Z",
               "EditorCaption": ""
             }
           ]
